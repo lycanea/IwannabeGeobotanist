@@ -4,7 +4,7 @@
 =================
 
 <!--ts-->
-   * [Ekologie rostlin](#Ekologie-rostlin)
+   * [Ekologie rostlin](##Ekologie-rostlin)
    * [English](#English)
    * [Česká verse](#Česká-verse)
 
