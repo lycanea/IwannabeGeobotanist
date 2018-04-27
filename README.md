@@ -5,7 +5,7 @@
 
 <!--ts-->
    * [Ekologie rostlin](##Ekologie-rostlin)
-   * [English](#English)
+   * [English version](#English-version)
    * [Česká verse](#Česká-verse)
 
 
@@ -84,7 +84,7 @@ b
 
 b
 b
-# English
+# English version
 
   b
   
