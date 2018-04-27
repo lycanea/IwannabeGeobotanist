@@ -1,178 +1,23 @@
 ## Welcome to my websites/Vítejte na mých stránkách
 
 ### Table of contents/Obsah
-=================
 
 <!--ts-->
+   * [Česká verse](#Česká-verse)
    * [Ekologie rostlin](##Ekologie-rostlin)
    * [English version](#English-version)
-   * [Česká verse](#Česká-verse)
-
-
 <!--te-->
-=================
 
+# Česká verse
 
-
-
-v
-
-v
-
-v
-
-v
-
-v
-
-v
-
-v
-
-v
-
-v
-v
-v
 ## Ekologie rostlin
-b
-b
-  b
- b 
-  
-  b
-  
-  b
-  
-  b
-  
-  b
-  
-  b
-  
-  b
-  
-  b
+### Opylování
 
-b
-
-b
-
-b
-
-b
-
-b
-
-b
-
-b
-
-b
-
-b
-
-b
-
-b
-
-b
-
-b
-
-b
-
-b
-b
 # English version
 
-  b
-  
-  b
-  
-  b
+## Plant ecology
 
-b
-
-b
-
-b
-
-b
-
-b
-
-b
-
-b
-
-b
-
-b
-
-b
-
-b
-
-b
-
-b
-
-b
-
-b
-  b
-  
-  b
-  
-  b
-
-b
-
-b
-
-b
-
-b
-
-b
-
-b
-
-b
-
-b
-
-b
-
-b
-
-b
-
-b
-
-b
-
-b
-
-b
-# Česká verse
-v
-v
-v
-v
-
-v
-v
-v
-v
-v
-v
-
-v
-vv
-v
-
+ 
 
 
 
