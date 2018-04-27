@@ -30,12 +30,19 @@ vv
 v
 
 v
+
 v
+
 v
+
 v
+
 v
+
 v
+
 v
+
 v
 
 v
@@ -48,26 +55,47 @@ b
  b 
   
   b
-  b
-  b
-  b
-  bb
   
   b
+  
   b
+  
   b
+  
   b
-b
-b
-b
-bb
-b
-b
-b
-b
+  
+  b
+  
+  b
+
 b
 
 b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
 b
 b
 # English
